@@ -1,0 +1,21 @@
+h1{
+	color: #ff7627
+}
+h1{
+	text-align: center;
+}
+
+p{
+	color:#000000;
+	margin-top: 20px;
+	text-align: left;
+	font-size: 20px;
+}
+
+li{
+	border-style: solid; border-size: 3px; border-color: #d22525;
+}
+
+body{
+	background-color:#f3f3f3;
+}
